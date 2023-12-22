@@ -1,0 +1,8 @@
+C:\Users\Max\Desktop\mkr2\mkr2\bin\Debug\mkr2.exe.config
+C:\Users\Max\Desktop\mkr2\mkr2\bin\Debug\mkr2.exe
+C:\Users\Max\Desktop\mkr2\mkr2\bin\Debug\mkr2.pdb
+C:\Users\Max\Desktop\mkr2\mkr2\obj\Debug\mkr2.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\mkr2\mkr2\obj\Debug\mkr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\mkr2\mkr2\obj\Debug\mkr2.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\mkr2\mkr2\obj\Debug\mkr2.exe
+C:\Users\Max\Desktop\mkr2\mkr2\obj\Debug\mkr2.pdb
